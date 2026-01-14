@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img alt="Demo" src="./assets_readme/images/background.png" />
+  <img alt="Demo" src="./assets_readme/images/background.jpg" />
 </div>
 
 <br/>
